@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rafael.sjogren@gmail.com
+	name = Rafael Sjogren
